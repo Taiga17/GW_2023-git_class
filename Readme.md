@@ -1,6 +1,6 @@
 # GW Git 勉強会
 
-## git コマンド
+## 覚えるGitコマンド
 ```
 git add .
 git commit -m "コミットメッセージ"
